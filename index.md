@@ -1,15 +1,13 @@
 ## 个人简介
-   王健，河北张家口人，博士毕业于中国地质大学（武汉），现为成都理工大学地球科学学院教师。
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>王健</h1>
-      <p><b>河北张家口人</b></p>
-      <p><b>博士</b></p>
+      <h1>王健 Jian Wang</h1>
+      <p><b>博士，讲师</b></p>
       <p><b>成都理工大学 地球科学学院</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/wj_photo.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
