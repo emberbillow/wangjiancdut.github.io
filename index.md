@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 个人简介
+   王健，河北张家口人，博士毕业于中国地质大学（武汉），现为成都理工大学地球科学学院教师。
 
-You can use the [editor on GitHub](https://github.com/wangjiancdut/wangjiancdut.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 研究方向
+### 地球化学异常信息提取与评价
+**研究内容**：
+- 成矿地球化学元素分布模式复杂性度量
+- 地球化学过程定量识别
+- 成矿元素地球化学异常信息提取方法研究
+- 地球化学异常不确定性评价
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 学术成果
 
-### Markdown
+## 科研项目
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 主讲科目
+### 遥感地质学
 
-```markdown
-Syntax highlighted code block
+### 数学地质学
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangjiancdut/wangjiancdut.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 联系方式
+**email**：jian.k.wang@foxmail.com
+**地址**：成都市成华区二仙桥东三路1号（650059）
