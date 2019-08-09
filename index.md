@@ -1,17 +1,6 @@
 
 ## ◆ 个人简介
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
-    <title>严振杰</title>
-</head>
-<body>
-我叫严振杰，软件工程师，英文名Yolanda，尤兰达，他们叫我达哥。
-</body>
-</html>
-
 王健，博士，河北张家口人，博士毕业于中国地质大学（武汉），现为成都理工大学地球科学学院讲师。
 
 -----
